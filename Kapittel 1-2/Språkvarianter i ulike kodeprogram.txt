@@ -1,0 +1,25 @@
+//VIRTUAL BASIC
+Imports System
+Public Module modmain
+	Sub Main()
+		Console.WriteLine("Hei verden!")
+	End Sub
+End Module
+
+//C++
+#include <iostream>
+using namespace std;
+void main()
+{
+cout<<"Hei Verden!"<<endl;
+}
+
+//Java
+class HeiVerden{
+	public static void main (String[]args){
+		System.out.println("Hei verden!");
+	}
+}
+
+//Python
+print "Yo, verden!"
